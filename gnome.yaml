@@ -63,8 +63,10 @@ packages:
   - 'gnome-shell-extension-appindicator'
   - 'gnome-software'
   - 'waydroid'
-  - 'waydroid-image'
-
+  
+aur-packages:
+  - 'waydroid-image-gapps'
+  
 services:
   - 'gdm'
 
