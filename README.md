@@ -55,4 +55,13 @@
 - Suporte
 - Caneta stylus (ASUS Pen SA201H-MPP2.0)
 
-[1] https://www.asus.com/laptops/for-home/zenbook/zenbook-duo-14-ux482/techspec/
+Este repositório está licenciado sob **The Unlicense**, que é uma licença de software livre que tem como objetivo colocar trabalhos que são de domínio público o mais livre possível. Isso significa que você pode copiar, modificar, distribuir e executar o trabalho, mesmo para fins comerciais, tudo sem precisar de permissão.
+
+A licença The Unlicense afirma:
+
+> This is free and unencumbered software released into the public domain.
+>
+> Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
+
+Portanto, o código-fonte e a documentação contidos neste repositório podem ser utilizados livremente, sem restrições de direitos autorais ou outras obrigações legais.
+
