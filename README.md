@@ -5,7 +5,7 @@
 Este repositório contém a configuração personalizada do sistema operacional BlendOS para um notebook ASUS Zenbook Duo UX482EAR com as seguintes especificações:
 
 - Processador Intel de 11ª geração
-- GPU Intel Xe com 1TB de armazenamento
+- GPU Intel Xe
   
 As configurações presentes neste repositório são públicas e estão licenciadas sob The Unlicense, o que significa que você pode usá-las livremente sem restrições
 
@@ -14,7 +14,7 @@ As configurações presentes neste repositório são públicas e estão licencia
 This repository contains a custom configuration of the BlendOS operating system tailored for an ASUS Zenbook Duo UX482EAR laptop with the following specifications:
 
 - 11th Generation Intel Processor  
-- Intel Xe GPU with 1TB storage
+- Intel Xe GPU
 
 The configurations in this repository are public and licensed under The Unlicense, meaning you can use them freely without restrictions.
 
