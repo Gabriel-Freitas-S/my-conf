@@ -1,23 +1,58 @@
-## Descrição do Repositório de Configuração do BlendOS
 
-### Português
+### 📋 Modelo: ASUS Zenbook Duo 14 UX482EAR
 
-Este repositório contém a configuração personalizada do sistema operacional BlendOS para um notebook ASUS Zenbook Duo UX482EAR com as seguintes especificações:
+#### 🔍 Processador
+- Intel® Core™ i7-1165G7 (2.8 GHz, cache de 12 MB, até 4.7 GHz, 4 núcleos)
 
-- Processador Intel de 11ª geração
-- GPU Intel Xe
-  
-As configurações presentes neste repositório são públicas e estão licenciadas sob The Unlicense, o que significa que você pode usá-las livremente sem restrições
+#### 💻 Memória RAM
+- 16 GB LPDDR4X integrada
 
-### English  
+#### 💾 Armazenamento
+- 1 TB M.2 NVMe™ PCIe® 3.0 SSD de alto desempenho
 
-This repository contains a custom configuration of the BlendOS operating system tailored for an ASUS Zenbook Duo UX482EAR laptop with the following specifications:
+#### 🖥️ Tela Principal  
+- 14,0 polegadas Full HD (1920 x 1080), IPS, LED, 60 Hz, 400 nits
+- 100% gama de cores sRGB, validado PANTONE, antirreflexo
+- Tela sensível ao toque, suporte a caneta stylus
+- Proporção tela-corpo de 93%
 
-- 11th Generation Intel Processor  
-- Intel Xe GPU
+#### 💻 Tela Secundária (ScreenPad™ Plus)
+- 12,65 polegadas (1920 x 515), IPS, suporte a caneta stylus
 
-The configurations in this repository are public and licensed under The Unlicense, meaning you can use them freely without restrictions.
+#### 🖱️ Teclado e Touchpad
+- Teclado retroiluminado chiclet com 1,4 mm de curso de tecla
+- Touchpad com suporte ao ScreenPad™ Plus
 
-[1] https://blendos.co/reference/configs/system/
+#### 📷 Câmera
+- Câmera HD com função IR
 
-[2] https://www.asus.com/laptops/for-home/zenbook/zenbook-duo-14-ux482/techspec/
+#### 🔊 Áudio  
+- Alto-falantes integrados
+- Microfone de matriz integrado
+- harman/kardon (Premium) 
+
+#### 📶 Rede e Comunicação
+- Wi-Fi 6E (802.11ax) (banda dupla) 2x2 + Bluetooth® 5.3
+
+#### 🔋 Bateria
+- 70 Wh, 4 células de íon de lítio
+
+#### ⚡ Fonte de Alimentação
+- Adaptador AC TYPE-C de 65W
+- Entrada: 100-240V AC 50/60 Hz universal
+
+#### ⚖️ Peso
+- 1,65 kg (3,64 lbs)
+
+#### 🧲 Segurança
+- Trusted Platform Module (TPM)
+- Proteção de senha de inicialização da BIOS
+- Trusted Platform Module (Firmware TPM)
+- Webcam IR
+
+#### 🎒 Acessórios Incluídos
+- Sleeve
+- Suporte
+- Caneta stylus (ASUS Pen SA201H-MPP2.0)
+
+[1] https://www.asus.com/laptops/for-home/zenbook/zenbook-duo-14-ux482/techspec/
