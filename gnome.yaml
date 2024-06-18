@@ -66,6 +66,7 @@ packages:
   
 aur-packages:
   - 'waydroid-image-gapps'
+  - 'mobydroid'
   
 services:
   - 'gdm'
