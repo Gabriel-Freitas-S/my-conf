@@ -5,7 +5,8 @@
 
 #### 🔍 Processador
 - Intel® Core™ i7-1165G7 (2.8 GHz, cache de 12 MB, até 4.7 GHz, 4 núcleos)
-
+- Intel® Iris Xe Graphics
+  
 #### 💻 Memória RAM
 - 16 GB LPDDR4X integrada
 
