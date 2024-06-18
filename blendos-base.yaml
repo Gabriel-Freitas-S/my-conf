@@ -131,7 +131,6 @@ aur-packages:
   - 'arch-gaming-meta'
   - 'asus-stylus-driver'
   - 'linux-firmware-asus'
-  - 'mobydroid'
 
 services:
   - 'NetworkManager'
