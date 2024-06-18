@@ -1,5 +1,7 @@
+# Este repositório contém minhas configurações pessoais para o BlendOS.
+## Notebook ASUS Zenbook Duo 14 UX482EAR
 
-### 📋 Modelo: ASUS Zenbook Duo 14 UX482EAR
+### 📋 Especificões:
 
 #### 🔍 Processador
 - Intel® Core™ i7-1165G7 (2.8 GHz, cache de 12 MB, até 4.7 GHz, 4 núcleos)
