@@ -29,6 +29,7 @@ package-repos:
     repo-url: 'https://cdn-mirror.chaotic.cx/$repo/$arch'
   - name: 'arch-mact2'
     repo-url: 'https://mirror.funami.tech/$repo/os/$arch/'
+
 commands:
   - 'sudo pacman-key --keyserver hkps://keyserver.ubuntu.com --recv-keys 9AE4078033F8024D'
   - 'sudo pacman-key --lsign-key 9AE4078033F8024D'
