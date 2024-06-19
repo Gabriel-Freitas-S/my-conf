@@ -63,7 +63,7 @@ packages:
   - 'gnome-shell-extension-appindicator'
   - 'gnome-software'
   - 'waydroid'
-  - 'lutris'
+  - 'directxtex'
   
 aur-packages:
   - 'waydroid-image-gapps'
