@@ -131,6 +131,7 @@ aur-packages:
   - 'arch-gaming-meta'
   - 'asus-stylus-driver'
   - 'linux-firmware-asus'
+  - 'dxvk-bin'
 
 services:
   - 'NetworkManager'
