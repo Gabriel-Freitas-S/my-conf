@@ -12,7 +12,7 @@
 - Trusted Platform Module (Firmware TPM)
 - Webcam IR
 
-## ⚙ System.yaml
+## ⚙ [System.yaml](https://raw.githubusercontent.com/Gabriel-Freitas-S/track-personal/main/local/system.yaml)
 ```yaml
 repo: 'https://pkg-repo.blendos.co' 
 
