@@ -9,6 +9,7 @@ packages:
   - 'gnome-initial-setup'
   - 'filesystem-blend'
   - 'fprintd'
+  - 'lutris'
 
 services:
   - 'fprintd'
