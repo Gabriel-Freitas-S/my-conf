@@ -4,6 +4,8 @@ arch-repo: 'https://geo.mirror.pkgbuild.com'
 
 impl: 'https://github.com/Gabriel-Freitas-S/track-personal/raw/main' 
 
+track: 'default-gnome'
+
 package-repos:
   - name: 'liquorix'
     repo-url: 'https://liquorix.net/archlinux/$repo/$arch'
