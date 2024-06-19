@@ -32,12 +32,12 @@ package-repos:
     repo-url: 'https://mirror.funami.tech/$repo/os/$arch/'
 
 commands:
-  - 'sudo pacman-key --keyserver hkps://keyserver.ubuntu.com --recv-keys 9AE4078033F8024D'
-  - 'sudo pacman-key --lsign-key 9AE4078033F8024D'
-  - 'sudo pacman-key --recv-key FBA220DFC880C036 --keyserver keyserver.ubuntu.com'
-  - 'sudo pacman-key --lsign-key FBA220DFC880C036'
-  - 'sudo pacman -U ''https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst'''
-  - 'sudo pacman -U ''https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'''
+  - 'sudo pacman-key --noconfirm --keyserver hkps://keyserver.ubuntu.com --recv-keys 9AE4078033F8024D'
+  - 'sudo pacman-key --noconfirm --lsign-key 9AE4078033F8024D'
+  - 'sudo pacman-key --noconfirm --recv-key FBA220DFC880C036 --keyserver keyserver.ubuntu.com'
+  - 'sudo pacman-key --noconfirm --lsign-key FBA220DFC880C036'
+  - 'sudo pacman --noconfirm -U ''https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst''' 
+  - 'sudo pacman --noconfirm -U ''https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'''
 ```
 ### ⚠ **usar [```akshara update```](https://blendos.co/reference/utils/akshara/) pelo terminal**
 
