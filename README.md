@@ -1,4 +1,5 @@
 # Este repositório contém minhas configurações pessoais para o BlendOS.
+#### **[ESSA CONFIGURAÇÃO USAR REPOSITÓRIO OFICIAL COMO BASE](https://github.com/blend-os/tracks)**
 ## 💻 Notebook ASUS Zenbook Duo 14 UX482EAR
 
 ### 📋 Especificões:
@@ -49,4 +50,3 @@ A licença The Unlicense afirma:
 > Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
 
 Portanto, o código-fonte e a documentação contidos neste repositório podem ser utilizados livremente, sem restrições de direitos autorais ou outras obrigações legais.
-
