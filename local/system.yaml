@@ -5,7 +5,7 @@ arch-repo: 'https://geo.mirror.pkgbuild.com'
 impl: 'https://github.com/Gabriel-Freitas-S/track-personal/raw/main' 
 
 package-repos:
-  - name: 'arch-mact2'
-    repo-url: 'https://mirror.funami.tech/$repo/os/$arch/'
   - name: 'chaotic-aur'
     repo-url: 'https://cdn-mirror.chaotic.cx/$repo/$arch'
+  - name: 'arch-mact2'
+    repo-url: 'https://mirror.funami.tech/$repo/os/$arch/'
