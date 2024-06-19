@@ -12,7 +12,7 @@
 
 #### 💾 Armazenamento
 - 1 TB M.2 NVMe™ PCIe® 3.0 SSD
-- 
+  
 #### 📶 Rede e Comunicação
 - Wi-Fi 6E (802.11ax) (banda dupla) 2x2 + Bluetooth® 5.3
 
