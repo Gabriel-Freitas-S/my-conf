@@ -76,6 +76,9 @@ packages:
   - 'xorg-xgamma'
   
 aur-packages:
+  - 'arch-gaming-meta'
+  - 'asus-stylus-driver'
+  - 'linux-firmware-asus'
   - 'waydroid-image-gapps'
   - 'mobydroid'
   - 'directxtex'
