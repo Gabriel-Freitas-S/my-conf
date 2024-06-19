@@ -37,7 +37,7 @@ commands:
   - 'sudo pacman -U ''https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst'''
   - 'sudo pacman -U ''https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'''
 ```
-### ⚠ usar [```akshara update```](https://blendos.co/reference/utils/akshara/) pelo terminal
+### ⚠ **usar [```akshara update```](https://blendos.co/reference/utils/akshara/) pelo terminal**
 
 Este repositório está licenciado sob **The Unlicense**, que é uma licença de software livre que tem como objetivo colocar trabalhos que são de domínio público o mais livre possível. Isso significa que você pode copiar, modificar, distribuir e executar o trabalho, mesmo para fins comerciais, tudo sem precisar de permissão.
 
