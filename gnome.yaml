@@ -72,8 +72,8 @@ aur-packages:
   - 'mobydroid'
   - 'directxtex'
   - 'dxvk-bin'
+  - 'adbmanager-bin'
 
-  
 services:
   - 'gdm'
 
