@@ -127,11 +127,6 @@ packages:
   - 'xl2tpd'
   - 'xz'
 
-aur-packages:
-  - 'arch-gaming-meta'
-  - 'asus-stylus-driver'
-  - 'linux-firmware-asus'
-
 services:
   - 'NetworkManager'
   - 'bluetooth'
