@@ -63,11 +63,22 @@ packages:
   - 'gnome-shell-extension-appindicator'
   - 'gnome-software'
   - 'waydroid'
-  - 'directxtex'
+  - 'fluidsynth'
+  - 'gamemode'
+  - 'innoextract'
+  - 'lib32-gamemode'
+  - 'lib32-vkd3d'
+  - 'lib32-vulkan-icd-loader'
+  - 'python-protobuf'
+  - 'vkd3d'
+  - 'vulkan-icd-loader'
+  - 'vulkan-tools'
+  - 'xorg-xgamma'
   
 aur-packages:
   - 'waydroid-image-gapps'
   - 'mobydroid'
+  - 'directxtex'
   - 'dxvk-bin'
   
 services:
