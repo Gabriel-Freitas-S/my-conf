@@ -62,8 +62,8 @@ packages:
   - 'libusb-compat'
   - 'licenses'
   - 'linux-firmware'
-  - 'linux-zen'
-  - 'linux-zen-headers'
+  - 'linux-lqx'
+  - 'linux-lqx-headers'
   - 'man-db'
   - 'man-pages'
   - 'mc'
@@ -136,14 +136,15 @@ user-services:
   - 'blend-files'
 
 package-repos:
-  - name: 'chaotic-aur'
-    repo-url: 'https://cdn-mirror.chaotic.cx/$repo/$arch'
   - name: 'liquorix'
     repo-url: 'https://liquorix.net/archlinux/$repo/$arch'
+  - name: 'chaotic-aur'
+    repo-url: 'https://cdn-mirror.chaotic.cx/$repo/$arch'
 
 commands:
-  - 'curl -s ''https://liquorix.net/install-liquorix.sh'' | sudo bash'
-  - 'sudo pacman-key --lsign-key FBA220DFC880C036'
+  - 'sudo pacman-key --keyserver hkps://keyserver.ubuntu.com --recv-keys 9AE4078033F8024D'
+  - 'sudo pacman-key --lsign-key 9AE4078033F8024D'
   - 'sudo pacman-key --recv-key FBA220DFC880C036 --keyserver keyserver.ubuntu.com'
-  - 'sudo pacman -U --noconfirm https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'
-  - 'sudo pacman -U --noconfirm https://releases.warp.dev/stable/v0.2024.06.11.08.02.stable_03/warp-terminal-v0.2024.06.11.08.02.stable_03-1-x86_64.pkg.tar.zst'
+  - 'sudo pacman-key --lsign-key FBA220DFC880C036'
+  - 'sudo pacman -U ''https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst'''
+  - 'sudo pacman -U ''https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'''
