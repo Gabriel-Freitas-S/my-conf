@@ -29,7 +29,6 @@ package-repos:
     repo-url: 'https://cdn-mirror.chaotic.cx/$repo/$arch'
   - name: 'arch-mact2'
     repo-url: 'https://mirror.funami.tech/$repo/os/$arch/'
-
 commands:
   - 'sudo pacman-key --keyserver hkps://keyserver.ubuntu.com --recv-keys 9AE4078033F8024D'
   - 'sudo pacman-key --lsign-key 9AE4078033F8024D'
@@ -38,6 +37,8 @@ commands:
   - 'sudo pacman -U ''https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst'''
   - 'sudo pacman -U ''https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'''
 ```
+### ⚠ usar [```akshara update```](https://blendos.co/reference/utils/akshara/) pelo terminal
+
 Este repositório está licenciado sob **The Unlicense**, que é uma licença de software livre que tem como objetivo colocar trabalhos que são de domínio público o mais livre possível. Isso significa que você pode copiar, modificar, distribuir e executar o trabalho, mesmo para fins comerciais, tudo sem precisar de permissão.
 
 A licença The Unlicense afirma:
