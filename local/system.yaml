@@ -1,0 +1,9 @@
+repo: 'https://pkg-repo.blendos.co' 
+
+arch-repo: 'https://geo.mirror.pkgbuild.com' 
+
+impl: 'https://github.com/Gabriel-Freitas-S/track-personal/raw/main' 
+
+package-repos:
+  - name: 'arch-mact2'
+    repo-url: 'https://mirror.funami.tech/$repo/os/$arch/'
