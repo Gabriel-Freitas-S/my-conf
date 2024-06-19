@@ -126,12 +126,23 @@ packages:
   - 'xfsprogs'
   - 'xl2tpd'
   - 'xz'
+  - 'fluidsynth'
+  - 'gamemode'
+  - 'gvfs'
+  - 'innoextract'
+  - 'lib32-gamemode'
+  - 'lib32-vkd3d'
+  - 'lib32-vulkan-icd-loader'
+  - 'python-protobuf'
+  - 'vkd3d'
+  - 'vulkan-icd-loader'
+  - 'vulkan-tools'
+  - 'xorg-xgamma'
 
 aur-packages:
   - 'arch-gaming-meta'
   - 'asus-stylus-driver'
   - 'linux-firmware-asus'
-  - 'dxvk-bin'
 
 services:
   - 'NetworkManager'
