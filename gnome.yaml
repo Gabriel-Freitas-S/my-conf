@@ -64,16 +64,6 @@ packages:
   - 'gnome-software'
   - 'waydroid'
 
-aur-packages:
-  - 'arch-gaming-meta'
-  - 'asus-stylus-driver'
-  - 'linux-firmware-asus'
-  - 'waydroid-image-gapps'
-  - 'mobydroid'
-  - 'directxtex'
-  - 'dxvk-bin'
-  - 'adbmanager-bin'
-
 services:
   - 'gdm'
 
