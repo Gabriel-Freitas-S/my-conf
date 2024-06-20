@@ -67,6 +67,7 @@ packages:
   - 'mutter-dynamic-buffering'
   - 'mobydroid'
   - 'adbmanager'
+  - 'binder_linux-dkms'
 
 services:
   - 'gdm'
