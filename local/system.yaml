@@ -31,4 +31,5 @@ commands:
   - 'sudo pacman-key --noconfirm --lsign-key FBA220DFC880C036'
   - 'sudo pacman --noconfirm -U ''https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst''' 
   - 'sudo pacman --noconfirm -U ''https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'''
+  - 'sudo pacman --noconfirm -U ''https://app.warp.dev/get_warp?package=pacman'''
 
