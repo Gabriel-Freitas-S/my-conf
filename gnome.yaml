@@ -28,7 +28,7 @@ packages:
   - 'gnome-remote-desktop'
   - 'gnome-session'
   - 'gnome-settings-daemon'
-  - 'gnome-shell'
+  - 'gnome-shell-performance'
   - 'gnome-shell-extensions'
   - 'gnome-software'
   - 'gnome-system-monitor'
@@ -63,6 +63,7 @@ packages:
   - 'gnome-shell-extension-appindicator'
   - 'gnome-software'
   - 'waydroid'
+  - 'mutter-dynamic-buffering'
 
 services:
   - 'gdm'
