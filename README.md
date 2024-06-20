@@ -23,6 +23,16 @@ impl: 'https://github.com/Gabriel-Freitas-S/track-personal/raw/main'
 
 track: 'default-gnome'
 
+aur-packages:
+  - 'arch-gaming-meta'
+  - 'asus-stylus-driver'
+  - 'linux-firmware-asus'
+  - 'waydroid-image-gapps'
+  - 'mobydroid'
+  - 'directxtex'
+  - 'dxvk-bin'
+  - 'adbmanager-bin'
+
 package-repos:
   - name: 'liquorix'
     repo-url: 'https://liquorix.net/archlinux/$repo/$arch'
@@ -30,7 +40,7 @@ package-repos:
     repo-url: 'https://cdn-mirror.chaotic.cx/$repo/$arch'
   - name: 'arch-mact2'
     repo-url: 'https://mirror.funami.tech/$repo/os/$arch/'
-
+  
 commands:
   - 'sudo pacman-key --noconfirm --keyserver hkps://keyserver.ubuntu.com --recv-keys 9AE4078033F8024D'
   - 'sudo pacman-key --noconfirm --lsign-key 9AE4078033F8024D'
@@ -38,6 +48,7 @@ commands:
   - 'sudo pacman-key --noconfirm --lsign-key FBA220DFC880C036'
   - 'sudo pacman --noconfirm -U ''https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst''' 
   - 'sudo pacman --noconfirm -U ''https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'''
+  - 'sudo pacman --noconfirm -U ''https://releases.warp.dev/stable/v0.2024.06.11.08.02.stable_03/warp-terminal-v0.2024.06.11.08.02.stable_03-1-x86_64.pkg.tar.zst'''
 ```
 ### ⚠ **usar [```akshara update```](https://blendos.co/reference/utils/akshara/) pelo terminal**
 
