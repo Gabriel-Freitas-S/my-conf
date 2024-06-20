@@ -65,6 +65,8 @@ packages:
   - 'waydroid'
   - 'waydroid-image-gapps'
   - 'mutter-dynamic-buffering'
+  - 'mobydroid'
+  - 'adbmanager'
 
 services:
   - 'gdm'
