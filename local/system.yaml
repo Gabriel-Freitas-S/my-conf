@@ -9,10 +9,8 @@ track: 'default-gnome'
 aur-packages:
   - 'asus-stylus-driver'
   - 'linux-firmware-asus'
-  - 'mobydroid'
   - 'directxtex'
   - 'dxvk-bin'
-  - 'adbmanager-bin'
 
 package-repos:
   - name: 'liquorix'
