@@ -1,6 +1,6 @@
 impl: 'https://github.com/Gabriel-Freitas-S/track-personal/raw/main'
 
-track: 'gnome'
+track: 'gamming'
 
 packages:
   - 'gnome-shell-extension-dash-to-dock'
