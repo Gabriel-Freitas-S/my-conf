@@ -63,6 +63,7 @@ packages:
   - 'gnome-shell-extension-appindicator'
   - 'gnome-software'
   - 'waydroid'
+  - 'waydroid-image-gapps'
   - 'mutter-dynamic-buffering'
 
 services:
