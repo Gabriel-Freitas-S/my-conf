@@ -10,7 +10,6 @@ packages:
   - 'filesystem-blend'
   - 'fprintd'
   - 'lutris'
-  - 'rustrover'
   - 'rust'
   - 'rust-analyzer'
   - 'rust-musl'
